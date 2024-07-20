@@ -10,6 +10,8 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
+
+    <h1>here is changes</h1>
     @extends('layouts.master')
     @section('content')
         <div class="content-wrapper">
